@@ -1,3 +1,13 @@
+Lista Compra LineaBlanca
+    -Refrigerador
+    -Estufa/Horno
+    -Microondas
+    -Lavavajillas
+    -Lavadora
+    -Secadora
+    -Aire acondicionado
+    -Calentador de agua
+
 Item 1: Leche\nItem 2: Pan\nItem 3: Huevos
 
 Ravioles de carne: 1 paquete 400 gr 
