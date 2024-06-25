@@ -1,1 +1,9 @@
-
+Lista Compra LineaBlanca
+    -Refrigerador
+    -Estufa/Horno
+    -Microondas
+    -Lavavajillas
+    -Lavadora
+    -Secadora
+    -Aire acondicionado
+    -Calentador de agua
