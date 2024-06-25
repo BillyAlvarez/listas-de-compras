@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 Item 1: Leche\nItem 2: Pan\nItem 3: Huevos
+=======
+Ravioles de carne: 1 paquete 400 gr 
+
+Ravioles ricotta espinaca: 2/3 paquetes 400 gr 
+
+Atún en agua: 9 tarros 340 gr 
+
+Salsa de tomate: 5 paquetes 200 gr 
+>>>>>>> 5c7e6b0acb28eb3b8881bab2463e5fb02681e2aa
